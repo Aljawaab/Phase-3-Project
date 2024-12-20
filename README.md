@@ -12,8 +12,8 @@ The **Car Registration System** is a Command-Line Interface (CLI) application th
 ### Setup Instructions
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone git@github.com:Aljawaab/phase-3-project.git
+    cd phase-3-project
     ```
 
 2. **Install Dependencies**:
